@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1494546946 source:e:\study\homeworks\2nd second\编译原理\predictor\main.cpp
+	"base.h"
+	<iomanip>
+
+1494551995 e:\study\homeworks\2nd second\编译原理\predictor\base.h
+	<iostream>
+	<string>
+	<vector>
+	<set>
+	<fstream>
+	<algorithm>
+	<stdlib.h>
+
